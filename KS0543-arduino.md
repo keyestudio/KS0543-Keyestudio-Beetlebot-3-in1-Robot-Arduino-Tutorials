@@ -1,75 +1,7 @@
-**Keyestudio Beetlebot 3 in 1 Robot for Arduino STEM  Education**
+# **KS0543 Keyestudio Beetlebot 3 in 1 Robot for Arduino STEM Education**
 
-**Contents**
 
-[1. Description： 2](#description)
-
-[2. Features： 3](#features)
-
-[3. Specification： 4](#3-specification)
-
-[4. Kit List： 5](#4-kit-list)
-
-[5. How to install the Beetlebot car： 13](#how-to-install-the-beetlebot-car)
-
-[6. Add libraries： 13](#6-add-libraries)
-
-[7. PCB Board： 14](#_Toc10793)
-
-[8. Arduino Libraries and the CH340 Driver：
-15](#arduino-libraries-and-the-ch340-driver)
-
-[9. Projects： 16](#9-projects)
-
-[Project 1: LED Blinking 16](#project-1-led-blinking)
-
-[Project 2: 6812 RGB 18](#project-2-6812-rgb)
-
-[Project 3: Play Music 22](#_Toc13008)
-
-[Project 4: 8\*8 Dot Matrix 27](#_Toc22310)
-
-[Project 5: Servo Rotation 36](#project-5-servo-rotation)
-
-[Project 6: Motor Driving and Speed Control
-39](#project-6-motor-driving-and-speed-control)
-
-[Project 7: Ultrasonic Sensor 44](#project-7-ultrasonic-sensor)
-
-[Project 7.1: Ultrasonic Ranging 45](#_Toc11496)
-
-[Project 7.2: Light Following 50](#project-72-light-following)
-
-[Project 7.3: Dodge obstacles 54](#project-73-dodge-obstacles)
-
-[Project 8: Line Tracking Sensor 61](#project-8-line-tracking-sensor)
-
-[Project 8.1: Reading Values 61](#project-81-reading-values)
-
-[Project 8.2: Line Tracking 64](#project-82-line-tracking)
-
-[Project 9: Light Following 69](#project-9-light-following)
-
-[Project 9.1 Read Values 69](#project-91-read-values)
-
-[Project 9.2: Light Following Car 72](#_Toc7155)
-
-[Project 10: IR Remote Control 78](#project-10-ir-remote-control)
-
-[Project 10.1: IR Remote and Reception 78](#project-101-ir-remote-and-reception)
-
-[Project 10.2: IR Remote Control Car 86](#project-102-ir-remote-control-car)
-
-[Project 11: WIFI Control 93](#project-11-wifi-control)
-
-[Project 11.1: WIFI Test 93](#project-111-wifi-test)
-
-[Project 11.2 : Control 8\*8 Dot Matrix Display Via WIFI
-121](#project-112--control-88-dot-matrix-display-via-wifi)
-
-[Project 11.3: Multi-purpose Car 145](#project-113-multi-purpose-car)
-
-# Description：
+## Description：
 
 The Beetlebot smart robot, compatible with LEGO building blocks, is a STEM
 educational product which can automatically dodge obstacles, follow black lines
